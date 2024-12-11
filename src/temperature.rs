@@ -2,7 +2,7 @@ pub mod temperature_conversation {
 
     /// # This function convert from celsius to fahrenheit
     /// 
-    /// # exemplo
+    /// # example
     /// 
     /// ```rust
     /// use utility_converter::converter;
@@ -17,7 +17,7 @@ pub mod temperature_conversation {
 
     /// # This function convert from celsius to kelvin
     /// 
-    /// # exemplo
+    /// # example
     /// 
     /// ```rust
     /// use utility_converter::converter;
@@ -32,7 +32,7 @@ pub mod temperature_conversation {
 
     /// # This function convert from fahrenheit to celsius
     /// 
-    /// # exemplo
+    /// # example
     /// 
     /// ```rust
     /// use utility_converter::converter;
@@ -47,7 +47,7 @@ pub mod temperature_conversation {
 
     /// # This function convert from fahrenheit to kelvin
     /// 
-    /// # exemplo
+    /// # example
     /// 
     /// ```rust
     /// use utility_converter::converter;
@@ -63,7 +63,7 @@ pub mod temperature_conversation {
 
     /// # This function convert from kelvin to celsius
     /// 
-    /// # exemplo
+    /// # example
     /// 
     /// ```rust
     /// use utility_converter::converter;
@@ -78,7 +78,7 @@ pub mod temperature_conversation {
 
     /// # This function convert from kelvin to fahrenheit
     /// 
-    /// # exemplo
+    /// # example
     /// 
     /// ```rust
     /// use utility_converter::converter;
