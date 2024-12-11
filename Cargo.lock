@@ -3,5 +3,5 @@
 version = 4
 
 [[package]]
-name = "utility-converter"
+name = "utility_converter"
 version = "0.1.0"
