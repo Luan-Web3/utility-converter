@@ -1,6 +1,18 @@
 [package]
-name = "utility-converter"
+name = "utility_converter"
 version = "0.1.0"
 edition = "2021"
+
+description = "This Rust lib offering accurate conversions for temperature, weight, and distance"
+authors = ["Luan Henrique <luansilvalemes.web3@gmail.com>"]
+repository = "https://github.com/Luan-Web3/utility-converter"
+readme = "README.md"
+license = "MIT"
+keywords = [
+    "converter",
+    "temperature",
+    "weight",
+    "distance"
+]
 
 [dependencies]
