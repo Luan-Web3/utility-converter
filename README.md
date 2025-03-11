@@ -5,7 +5,7 @@ Utility Converter
 ![GitHub language count](https://img.shields.io/github/languages/count/Luan-Web3/utility-converter?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/Luan-Web3/utility-converter?style=for-the-badge)
 
-This Rust lib offering accurate conversions for temperature, weight, and distance.ses)
+This Rust lib offering accurate conversions for temperature, weight, and distances
 
 ## Instalation
 
